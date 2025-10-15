@@ -39,3 +39,6 @@ Uma calculadora simples e funcional desenvolvida com **HTML**, **CSS** e **JavaS
 - Histórico de cálculos
 - Suporte a teclas avançadas (porcentagem, raiz quadrada, etc.)
 - Tema claro/escuro
+
+  ![Prévia](preview/image.png)
+
